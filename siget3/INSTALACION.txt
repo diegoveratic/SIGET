@@ -1,0 +1,5 @@
+Para instalar primero es necesario crear la base de datos
+copiando y pegando el codigo sql del archivo "schema.sql" en
+la seccion sql de phpmyadmin.
+Luego abrir en el navegador localhost/xoolar-lite-1.0 e ingresar
+con nombre de usuario "admin" y contraseña "admin"
